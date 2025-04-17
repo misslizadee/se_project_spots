@@ -1,21 +1,31 @@
-# Project 3: Spots
+# Spots
 
-### Overview  
+**Spots** is a responsive image sharing website, which is designed to display content efficiently across popular screen sizes. Users can add and remove photos, like other users photos, and make some tiny changes to their profile.
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+## ✨ Features
+
+- Responsive design optimized for various screen sizes
+- Clean and minimal layout
+- Lightweight image optimization using TinyPNG
+- Deployed via GitHub Pages
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- Figma (for design mockups)
+- [TinyPNG](https://tinypng.com/) (for image compression)
+
+## 🚀 Deployment
+
+This website is live and hosted on GitHub Pages. Check it out! #https://misslizadee.github.io/se_project_spots/
+
+## 📦 Installation (Optional for Devs)
+
+If you'd like to clone and run this project locally:
+
+```bash
+git clone https://github.com/misslizadee/spots.git
+cd spots
+open index.html
+```
