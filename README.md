@@ -29,3 +29,7 @@ git clone https://github.com/misslizadee/spots.git
 cd spots
 open index.html
 ```
+
+![Image](https://github.com/user-attachments/assets/c5993a57-9651-4271-996d-b24015b25be9)
+
+![Image](https://github.com/user-attachments/assets/137de26a-0324-4e3a-a0a1-fd991cf6cdf8)
