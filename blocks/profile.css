@@ -2,16 +2,15 @@
   display: flex;
   padding: 34px 0 20px;
   border-bottom: 1px rgba(33, 33, 33, 0.4) solid;
-  max-width: 288px;
 }
 
 .profile__add-button {
   margin-left: auto;
-  width: 149px;
+  margin-top: auto;
+  font-size: 16px;
   height: 52px;
   padding: 18px 32px;
   border-radius: 8px;
-  font-size: 16px;
   font-weight: 500;
   line-height: 1;
   color: #fcf5e5;
