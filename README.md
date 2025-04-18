@@ -18,7 +18,7 @@
 
 ## 🚀 Deployment
 
-This website is live and hosted on GitHub Pages. Check it out! #https://misslizadee.github.io/se_project_spots/
+This website is live and hosted on GitHub Pages. Check it out! #https://github.com/misslizadee/se_project_spots.git
 
 ## 📦 Installation (Optional for Devs)
 
@@ -33,3 +33,5 @@ open index.html
 ![Image](https://github.com/user-attachments/assets/c5993a57-9651-4271-996d-b24015b25be9)
 
 ![Image](https://github.com/user-attachments/assets/137de26a-0324-4e3a-a0a1-fd991cf6cdf8)
+
+Here's my recap video...enjoy! https://drive.google.com/file/d/1JwMc5uhjhRe3XkhrMRbM-2l1fwWlm_fA/view?usp=sharing
