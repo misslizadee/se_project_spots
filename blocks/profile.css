@@ -68,7 +68,7 @@
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 3;
-  line-clamp: 3;
+
   -webkit-box-orient: vertical;
   max-width: 420px;
 }
@@ -84,7 +84,7 @@
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 3;
-  line-clamp: 3;
+
   -webkit-box-orient: vertical;
   max-width: 420px;
 }
@@ -104,6 +104,9 @@
     width: 80px;
   }
 
+  .profile__edit-button {
+    padding-bottom: 20px;
+  }
   .profile__add-button {
     margin: 0;
     width: 100%;
