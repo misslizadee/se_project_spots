@@ -11,7 +11,7 @@
   display: flex;
   visibility: hidden;
   opacity: 0;
-  transition: visibility 0s linear, opacity 0.5s linear;
+  transition: visibility 0.3s linear, opacity 0.5s linear;
   padding: 0 10px;
 }
 
@@ -210,5 +210,9 @@
   .modal__input {
     font-size: 16px;
     margin-bottom: 24px;
+  }
+
+  .modal__caption {
+    font-size: 16px;
   }
 }
