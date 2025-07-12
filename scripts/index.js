@@ -134,7 +134,7 @@ addCardFormEl.addEventListener("submit", function (evt) {
 
   const cardElement = getCardElement(inputValues);
   cardsList.prepend(cardElement);
-  captionInputEl.value = "";
+  addCardFormEl.reset();
   linkInputEl.value = "";
 
   closeModal(addCardModal);
