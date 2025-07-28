@@ -115,7 +115,12 @@ function handleEscClose(evt) {
 editProfileButton.addEventListener("click", function () {
   nameInputEl.value = profileNameEl.textContent;
   descriptionInputEl.value = profileDescriptionEl.textContent;
-  resetValidation(formEl, inputList, config);
+
+  const inputList = Array.from(
+    editFormEl.querySelectorAll(settings.inputSelector)
+  );
+  resetValidation(editFormEl, inputList, settings);
+
   openModal(editProfileModal);
 });
 
